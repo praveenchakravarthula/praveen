@@ -1,0 +1,60 @@
+Training Decision Tree using these attributes: ['pclass']
+{'min' => '0.6322','q3' => '0.6839','max' => '0.7156','median' => '0.6739','mean' => '0.6732','q1' => '0.663'}
+Finished in 1.107872 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['sex']
+{'min' => '0.746','q3' => '0.794','max' => '0.8302','median' => '0.7821','mean' => '0.7836','q1' => '0.772'}
+Finished in 1.173713 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['sibsp']
+{'min' => '0.571','q3' => '0.6362','max' => '0.6826','median' => '0.6197','mean' => '0.622','q1' => '0.605'}
+Finished in 1.124668 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['parch']
+{'min' => '0.5633','q3' => '0.6338','max' => '0.655','median' => '0.6172','mean' => '0.6181','q1' => '0.6053'}
+Finished in 1.166191 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['pclass','sex']
+{'min' => '0.7333','q3' => '0.792','max' => '0.8059','median' => '0.7783','mean' => '0.7789','q1' => '0.7715'}
+Finished in 1.463698 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['pclass','sibsp']
+{'min' => '0.6114','q3' => '0.6939','max' => '0.7249','median' => '0.6824','mean' => '0.6795','q1' => '0.6662'}
+Finished in 1.483745 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['pclass','parch']
+{'min' => '0.6276','q3' => '0.7176','max' => '0.7438','median' => '0.7058','mean' => '0.7035','q1' => '0.6884'}
+Finished in 1.478791 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['sex','sibsp']
+{'min' => '0.757','q3' => '0.8053','max' => '0.8273','median' => '0.7913','mean' => '0.7922','q1' => '0.7812'}
+Finished in 1.514521 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['sex','parch']
+{'min' => '0.7439','q3' => '0.8028','max' => '0.8275','median' => '0.7902','mean' => '0.7887','q1' => '0.7768'}
+Finished in 1.510256 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['sibsp','parch']
+{'min' => '0.6177','q3' => '0.6602','max' => '0.6963','median' => '0.6508','mean' => '0.6519','q1' => '0.6411'}
+Finished in 1.487816 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['pclass','sex','sibsp']
+{'min' => '0.7538','q3' => '0.808','max' => '0.8281','median' => '0.7978','mean' => '0.7954','q1' => '0.7832'}
+Finished in 1.838034 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['pclass','sex','parch']
+{'min' => '0.7544','q3' => '0.8088','max' => '0.8509','median' => '0.8003','mean' => '0.7981','q1' => '0.7864'}
+Finished in 1.894602 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['pclass','sibsp','parch']
+{'min' => '0.6455','q3' => '0.7082','max' => '0.7372','median' => '0.69','mean' => '0.6919','q1' => '0.6759'}
+Finished in 1.904704 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['sex','sibsp','parch']
+{'min' => '0.7453','q3' => '0.7967','max' => '0.8297','median' => '0.7846','mean' => '0.7849','q1' => '0.7705'}
+Finished in 1.913526 seconds
+--------------------------------------------------
+Training Decision Tree using these attributes: ['pclass','sex','sibsp','parch']
+{'min' => '0.753','q3' => '0.8028','max' => '0.8333','median' => '0.7905','mean' => '0.7893','q1' => '0.7753'}
+Finished in 2.373612 seconds
+--------------------------------------------------
